@@ -55,4 +55,4 @@ async def info(ctx):
     await ctx.send(embed=info_embed)
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTE0MzI2NDQ2MDc3NDA2MDA5NA.GolD2O.HJfaaCp8XDbvglJL_EvxRhV_Hy6J9Uy8RkAzdI')
+bot.run('')
